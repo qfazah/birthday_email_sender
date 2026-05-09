@@ -1,16 +1,16 @@
 # birthday_email_sender
-A Python practice project that automatically sends birthday wish emails to friends on their birthdays. This project helps in learning email automation, date handling, and SMTP usage in Python.
+A Python practice project that automatically sends birthday wish emails to friends on their birthdays. This project helps in learning email automation, date handling, and SMTP usage in Python.<br>
 🚀 Features
 Automatically checks today's date
 Sends birthday emails to matching contacts
 Uses SMTP for email sending
 Simple and easy-to-modify code structure
-Good practice for Python automation beginners
+Good practice for Python automation beginners<br>
 🛠️ Technologies Used
 Python
 SMTP (smtplib)
 datetime module
-CSV / JSON (if used for storing data)
+CSV / JSON (if used for storing data)<br>
 📂 How It Works
 Store friends' names, emails, and birthdays.
 Program checks the current date.
